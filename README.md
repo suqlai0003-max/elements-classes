@@ -112,7 +112,7 @@ padding:10px;
 <div class="card" id="videos">
 <h2>Video Lectures</h2>
 <iframe width="100%" height="315"
-src=UCGyyGmdmiI_C91pm_1YHKFA>
+src=https://youtube.com/@sk_coaching_classes?si=FNDuMCTlxyyzguWp>
 </iframe>
 </div>
 
