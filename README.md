@@ -112,7 +112,7 @@ padding:10px;
 <div class="card" id="videos">
 <h2>Video Lectures</h2>
 <iframe width="100%" height="315"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+src=UCGyyGmdmiI_C91pm_1YHKFA>
 </iframe>
 </div>
 
